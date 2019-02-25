@@ -1,0 +1,45 @@
+body{
+background-color: black;
+/* background: url(https://www.toptal.com/designers/subtlepatterns/dark-paths-pattern/) */
+font-family: 'Courgette', cursive;
+font-size: 30px;
+}
+
+h1{
+    font-family: 'Courgette', cursive;
+    font-size: 70px;
+    color: green;
+    text-align: center;
+}
+
+.btn-outline-success {
+color: #28a745;
+border-color: #28a745;
+text-align: center;
+}
+
+label{
+  font-family: 'Courgette', cursive;
+    font-size:20px;
+    color: #28a745;
+    text-align: right;
+}
+#topA {
+    background-color: rgba(0, 0, 0, 0.226);
+    }
+
+    input[type=text] {
+        width: 130px;
+        box-sizing: border-box;
+        border: 2px solid #ccc;
+        border-radius: 4px;
+        font-size: 16px;
+        background-color: white;
+        transition: width 0.4s ease-in-out;
+        font-family: 'Courgette', cursive;
+      }
+    
+      input[type=text]:focus {
+        width: 50%;
+        
+      }
